@@ -8,3 +8,7 @@ __pycache__/
 
 # Environments
 venv/
+
+
+#Data
+*.json

@@ -1,3 +1,17 @@
+# Settings para el clone de github
+
+1. Clona el repositorio
+   git clone https://github.com/jose12233/latam-challenge.git
+
+2. Descargar el archivo JSON desde   https://drive.google.com/file/d/1ig2ngoXFTxP5Pa8muXo02mDTFexZzsis/view
+
+3. Descomprimir el archivo ZIP descargado y colocarlo el archivo farmers-protest-tweets-2021-2-4.json en el directorio latam-challenge.
+
+4. Asegurar tener instalado el entorno virtual y las dependencias necesarias.
+
+
+
+
 # Data Engineer Challenge
 ​
 ## Descripción General
